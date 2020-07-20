@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/neuron_site/static/js/main.5bf736dc.chunk.js",
+    "main.js.map": "/neuron_site/static/js/main.5bf736dc.chunk.js.map",
+    "runtime-main.js": "/neuron_site/static/js/runtime-main.3bf92fae.js",
+    "runtime-main.js.map": "/neuron_site/static/js/runtime-main.3bf92fae.js.map",
+    "static/css/2.a2732f21.chunk.css": "/neuron_site/static/css/2.a2732f21.chunk.css",
+    "static/js/2.99e641a8.chunk.js": "/neuron_site/static/js/2.99e641a8.chunk.js",
+    "static/js/2.99e641a8.chunk.js.map": "/neuron_site/static/js/2.99e641a8.chunk.js.map",
+    "index.html": "/neuron_site/index.html",
+    "precache-manifest.61c1318a4e7c3bde988b6bb42ff3edfa.js": "/neuron_site/precache-manifest.61c1318a4e7c3bde988b6bb42ff3edfa.js",
+    "service-worker.js": "/neuron_site/service-worker.js",
+    "static/css/2.a2732f21.chunk.css.map": "/neuron_site/static/css/2.a2732f21.chunk.css.map",
+    "static/js/2.99e641a8.chunk.js.LICENSE.txt": "/neuron_site/static/js/2.99e641a8.chunk.js.LICENSE.txt",
+    "static/media/agendamento.ac7d6ef2.svg": "/neuron_site/static/media/agendamento.ac7d6ef2.svg",
+    "static/media/dor_orofacial.033e5459.svg": "/neuron_site/static/media/dor_orofacial.033e5459.svg",
+    "static/media/facebook.f9c8d0ae.svg": "/neuron_site/static/media/facebook.f9c8d0ae.svg",
+    "static/media/instagram.45be02c8.svg": "/neuron_site/static/media/instagram.45be02c8.svg",
+    "static/media/logo.a17699e6.svg": "/neuron_site/static/media/logo.a17699e6.svg",
+    "static/media/neurocirurgia.48e7d842.svg": "/neuron_site/static/media/neurocirurgia.48e7d842.svg",
+    "static/media/neurologia.998fe103.svg": "/neuron_site/static/media/neurologia.998fe103.svg",
+    "static/media/slick-theme.css": "/neuron_site/static/media/slick.f97e3bbf.svg",
+    "static/media/whatsapp.fc943a39.svg": "/neuron_site/static/media/whatsapp.fc943a39.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bf92fae.js",
+    "static/css/2.a2732f21.chunk.css",
+    "static/js/2.99e641a8.chunk.js",
+    "static/js/main.5bf736dc.chunk.js"
+  ]
+}
